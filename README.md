@@ -1,7 +1,7 @@
 # ✨ Prompting4U 🚀
 Turn simple ideas into powerful AI prompts 💡
 
-🔗 Live: https://prompting4u.vercel.app
+🔗 Live: https://prompting4u.vercel.app/
 
 ## 🎯 Features
 - 🛠️ Prompt Studio – detailed prompts with style, lighting & camera 📷
